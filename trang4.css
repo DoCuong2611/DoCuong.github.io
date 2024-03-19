@@ -1,0 +1,74 @@
+.grid-row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-left: 200px;
+    
+}
+.grid-column2{
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 20%;
+    
+}
+.home-product-items{
+    margin-top: 150px;
+    background-color: white;
+    margin-bottom: 80px;
+    
+}
+.home-product-items-img{
+    padding-top: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+}
+.home-product-items-name{
+    height: 4rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: black;
+    line-height: 1.8rem;
+    margin: 10px 10px 6px;
+    overflow: hidden;
+    display: block;
+    display: -webkit-box;
+}
+.home-product-items-price{
+    display: flex;
+}
+.home-product-items-old{
+    font-size: 1.4rem;
+    color: #666;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+.home-product-items-current{
+    font-size: 1.6rem;
+    color: rgb(241, 9, 9);
+    margin-left: 10px;
+}
+/*.home-product-items-sale{
+    position: absolute;
+    top: 10;
+    right: 0;
+    width: 40px;
+    height: 36px;
+    background-color: rgba(255, 216, 64, 0.94);
+}
+.home-product-items-sale-percent{
+    color: #EE4D2D;
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    top: -1px;
+}
+.home-product-items-sale-lable{
+    color: aliceblue;
+    font-size: 1.3rem;
+    line-height: 1.4rem;
+    position: relative;
+    top: -10px;
+    font-weight: 600;
+}*/

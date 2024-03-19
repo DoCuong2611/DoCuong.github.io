@@ -1,0 +1,33 @@
+.footer{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Product sans", Roboto, sans-serif;
+    font-size: 1rem;
+    font-weight: 900;
+    position: relative;
+}
+.footer-list{
+    list-style: none;
+}
+.footer-list li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.footer-list a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 800;
+    color: black;
+}
+.footer-mid p{
+    justify-content: space-between;
+    font-weight: 900;
+}
+.image
+{
+    position: absolute;
+    z-index: 100;
+}
